@@ -6,6 +6,6 @@
 
 引发了明日方舟社群的讨论： https://ngabbs.com/read.php?tid=40327979
 
-* 罪证：
+罪证：
 - https://prts.wiki/w/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/%E5%AE%B6%E9%95%BF
 - https://prts.wiki/w/%E7%89%B9%E6%AE%8A:%E7%94%A8%E6%88%B7%E8%B4%A1%E7%8C%AE/%E5%AF%B9%E4%B8%8D%E8%B5%B7%EF%BC%8C%E6%82%A8%E7%9A%84wiki%E5%B7%B2%E7%88%86%E7%82%B8%EF%BC%81
