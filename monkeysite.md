@@ -13,3 +13,6 @@
 ## Fandom
 该用户在Fandom已被全域封禁，因此其权力已经丧失。
 - ?
+
+## 自建论坛站点
+- https://note.flarum.cloud/
