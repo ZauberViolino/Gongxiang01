@@ -10,3 +10,4 @@
 
 ## 参见
 - 检查他在Miraheze各wiki上的贡献：https://meta.miraheze.org/wiki/Special:CentralAuth/Gongxiang01
+- [看他如何和志愿者反复拉扯](https://meta.miraheze.org/wiki/Special:RequestWikiQueue/42012)
