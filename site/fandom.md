@@ -26,13 +26,16 @@
 ### 英文后室维基
 2023年11月28日被封禁两周。理由为「Spamming discussions and generally odd behavior」。[封禁日志](https://backrooms.fandom.com/wiki/Special:Log/block?page=User%3AGongxiang01)
 
-### 中文社区中心
-[骚扰](https://community.fandom.com/zh/wiki/%E7%95%99%E8%A8%80%E5%A2%99:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot)。并未在此站受到封禁。
-
 ### 中文 Minecraft Wiki 旧站
 破坏。
 
 2024年2月26日，Gongxiang01被滥用过滤器自动封禁，匹配的过滤器描述为「清理垃圾」。[封禁日志](https://minecraft.fandom.com/zh/wiki/Special:%E6%97%A5%E5%BF%97/block?page=User%3AGongxiang01)
+
+### 中文社区中心
+[骚扰](https://community.fandom.com/zh/wiki/%E7%95%99%E8%A8%80%E5%A2%99:P%E9%80%B2%E5%A4%A7%E5%A5%BD%E3%81%8Dbot)。并未在此站受到封禁。
+
+### OIer维基
+作为站长，[破坏，滥权](https://oier.fandom.com/zh/wiki/OIer_Wiki:%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9F%BA%E5%BB%BA)。截至被全域封禁前并未受到封禁也无人有能力封禁之。目前该维基正由正常社群维护并申请领养。
 
 ## 使用帐号
 根据锑星百科的记载，其分身包括：
