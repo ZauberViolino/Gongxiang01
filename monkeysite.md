@@ -15,5 +15,6 @@
 - ?
 
 ## 自建论坛站点
-- https://note.flarum.cloud/
+- https://note.freeflarum.com/
+  - https://note.flarum.cloud/
 - https://note4.freeflarum.com/
