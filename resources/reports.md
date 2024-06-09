@@ -1,3 +1,4 @@
+# 报告
 Gongxiang01的劣迹载于多个站点，现悉数列出以供参考批判，去伪存真：
 
 - [共享01 - 锑星百科](https://antimony.fandom.com/zh/wiki/共享01)
