@@ -36,4 +36,4 @@
 然后尝试去英文站申诉
 
 ## 参见
-(fandom)[fandom.md]
+[fandom](fandom.md)
