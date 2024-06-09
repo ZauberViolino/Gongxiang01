@@ -4,6 +4,8 @@
 
 5:10，三个帐号被管理员无限期封禁。随后他用IP「167.172.71.11」破坏，[辱骂自己，并且声称自己是其他人](https://zh.cppreference.com/mwiki/index.php?title=Template:!&curid=3&diff=91559&oldid=9617)。遗憾的是这个IP地址的地理位置似乎和PRTS.wiki披露的IP的位置完全吻合。
 
+引起[知乎讨论](https://www.zhihu.com/question/657921107)。
+
 帐户列表：
 - AntiCleanNote
 - Rollbacker
