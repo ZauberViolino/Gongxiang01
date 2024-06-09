@@ -1,5 +1,5 @@
 # Wikidot
-Gongxiang01曾[表示](http://translate.wikidot.com/y:cn/comments/show#post-6484982)自己被全域封禁。
+根据Gongxiang01[先前的发言记录](http://translate.wikidot.com/y:cn/comments/show#post-6484982)，他可能已被全域封禁。
 
 ## Write on Paper
 
