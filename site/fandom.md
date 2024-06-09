@@ -53,3 +53,7 @@
 - 封禁一点用都没有
 - 轰炸姬
 - 别封我了求求你
+
+## IP
+猜测在中文数室维基的这笔登出编辑为Gongxiang01:
+- [112.32.30.128](https://mathrooms.fandom.com/zh/wiki/%E7%95%99%E8%A8%80%E5%A2%99:Gongxiang01)
