@@ -1,7 +1,7 @@
 Gongxiang01在Freeflarum使用「[Googol](https://support.freeflarum.com/u/Googol)」用户名，并建立了[伪NoteBBS](https://note.freeflarum.com/)。
 
 ## 支持论坛
-曾[扬言](https://support.freeflarum.com/d/107-my-forum-have-been-ddos)要DDoS[Note.msBBS](https://bbs.notems.xyz/)，被管理员警告。
+曾[扬言](https://support.freeflarum.com/d/107-my-forum-have-been-ddos)要DDoS [Note.msBBS](https://bbs.notems.xyz/)，被管理员警告。
 
 ## Note.ms BBS
 4月9日，Note.ms BBS站长对Googol采取以下处置措施：
