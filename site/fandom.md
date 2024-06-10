@@ -37,7 +37,11 @@
 ### OIer维基
 作为站长，[破坏，滥权](https://oier.fandom.com/zh/wiki/OIer_Wiki:%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9F%BA%E5%BB%BA)。截至被全域封禁前并未受到封禁也无人有能力封禁之。目前该维基正由正常社群维护并申请领养。
 
+2024年5月9日和14日，用分身破坏OIer Wiki，分别被封禁[1个月](https://oier.fandom.com/zh/wiki/Special:%E6%97%A5%E5%BF%97?logid=337)和[2周](https://oier.fandom.com/zh/wiki/Special:%E6%97%A5%E5%BF%97?logid=350)，后均被全域封禁。
+
 ## 使用帐号
+Gongxiang01的主账号为Gongxiang01。
+
 根据锑星百科的记载，其分身包括：
 - Gongxiang02
 - Googol
@@ -56,6 +60,9 @@
 - 封禁一点用都没有
 - 轰炸姬
 - 别封我了求求你
+
+根据OIer Wiki的封禁日志，其分身还包括：
+- Suavexro
 
 ## IP
 猜测在中文数室维基的这笔登出编辑为Gongxiang01:
