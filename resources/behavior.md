@@ -6,7 +6,7 @@
 - 声称自己被Fandom等站点不公平地封禁
 - 声称Gongxiang01、Googol、Googology等不是同一人
 - 声称自己和其他站点的同名帐号均非同一人，在其它站点没有劣迹
-- 有一定维基模板、js、css、模块（Scribunto Lua）编辑基础，会尝试绕过过滤器和保护措施（模板注入，典型[如在PRTS.wiki的编辑](PRTS.wiki.md)），尝试以危险方式触发系统漏洞（[XXS注入](https://lglg.top/5/211#5382029)、[写死循环](https://zh.wikipedia.org/wiki/Module:%E6%B2%99%E7%9B%92/Gongxiang01/%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%EF%BC%9A%E6%AD%BB%E5%BE%AA%E7%8E%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E5%8D%A1%E7%88%86)
+- 有一定维基模板、js、css、模块（Scribunto Lua）编辑基础，会尝试绕过过滤器和保护措施（模板注入，典型[如在PRTS.wiki的编辑](PRTS.wiki.md)），尝试以危险方式触发系统漏洞（[XXS注入](https://lglg.top/5/211#5382029)、[写死循环](https://zh.wikipedia.org/wiki/Module:%E6%B2%99%E7%9B%92/Gongxiang01/%E5%AE%89%E5%85%A8%E6%B5%8B%E8%AF%95%EF%BC%9A%E6%AD%BB%E5%BE%AA%E7%8E%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E5%8D%A1%E7%88%86)）
 - 中文水平较差，有翻译腔问题
 - 英文水平极差，[可能不到CEFR A2水平](https://zh.wikipedia.org/w/index.php?oldid=82771630&diff=82771956)，语法错误百出，甚至到了疑似反串的地步。
   - 然而很可能不是反串，他向外语人士发出请求时也使用无法理解的英文，并造成沟通阻碍。
