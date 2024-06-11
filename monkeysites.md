@@ -18,3 +18,4 @@
 - https://note.freeflarum.com/
   - https://note.flarum.cloud/
 - https://note4.freeflarum.com/
+- https://noteji.freeflarum.com/
