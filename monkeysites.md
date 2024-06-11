@@ -15,7 +15,7 @@
 - ?
 
 ## 自建论坛站点
-- ~~https://note.freeflarum.com/~~ （已被黑）
-  - ~~https://note.flarum.cloud/~~ （已被黑）
+- https://note.freeflarum.com/
+  - https://note.flarum.cloud/
 - https://note4.freeflarum.com/
 - https://noteji.freeflarum.com/
