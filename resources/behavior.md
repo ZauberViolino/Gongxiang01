@@ -10,7 +10,7 @@
 - 中文水平较差，有翻译腔问题
 - 英文水平极差，[可能不到CEFR A2水平](https://zh.wikipedia.org/wiki/Special:Diff/82771956)，语法错误百出，甚至到了疑似反串的地步。
   - 然而很可能不是反串，他向外语人士发出请求时也使用无法理解的英文，并造成沟通阻碍。
-- 关注[大数](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%B0_(%E6%95%B0%E5%AD%A6))、[信息学奥林匹克竞赛（OI）](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%A1%E6%81%AF%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B)。
+- 关注[大数](https://zh.wikipedia.org/wiki/大数 (数学))、[信息学奥林匹克竞赛（OI）](https://zh.wikipedia.org/wiki/全国青少年信息学奥林匹克竞赛)。
 - 攻击CleanNote，攻击Anomynous_user等人
 - 指责游戏玩家「玩物丧志」[\[1\]](https://lglg.top/r/5376822) [\[2\]](../site/prts.wiki.md) [\[3\]](../site/wiki.gg.md)
 

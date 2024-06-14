@@ -9,7 +9,7 @@
 5月27日，被管理员不限期封禁。原因：[为了阐释观点而扰乱维基百科](https://zh.wikipedia.org/wiki/Wikipedia:POINT)、[并非在此建设百科全书](https://zh.wikipedia.org/wiki/Wikipedia:NOTHERE)。
 
 ## 元维基
-[加入弃用的模板](https://meta.wikimedia.org/wiki/Special:Diff/25644676)、[滥用翻译扩展](https://meta.wikimedia.org/wiki/Special:PageHistory/Proposals_for_new_projects/zh)。未被封禁。
+[加入弃用的模板](https://meta.wikimedia.org/wiki/Special:Diff/25644676)、[滥用翻译扩展](https://meta.wikimedia.org/wiki/Special:PageHistory/Proposals for new projects/zh)。未被封禁。
 
 ## 中文维基文库
 [可疑的贡献](https://zh.wikisource.org/wiki/Special:Diff/2313925)
