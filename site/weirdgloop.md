@@ -35,7 +35,7 @@
 - 2409:8a1a:700::/40
 
 ### 参见
-[AF68](https://zh.minecraft.wiki/w/Special:%E6%BB%A5%E7%94%A8%E8%BF%87%E6%BB%A4%E5%99%A8/68)
+[AF68](https://zh.minecraft.wiki/w/Special:AbuseFilter/68)
 
 ## 英文Minecraft Wiki新站
 然后尝试去英文站申诉，并指责tagline违反中华人民共和国广告法。
