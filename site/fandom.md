@@ -32,7 +32,7 @@
 2024年2月26日，Gongxiang01被滥用过滤器自动不限期封禁，匹配的过滤器描述为「清理垃圾」。[封禁日志](https://minecraft.fandom.com/zh/wiki/Special:Log/block?page=User:Gongxiang01)
 
 ### 中文社区中心
-[骚扰](https://community.fandom.com/zh/wiki/Message Wall:P進大好きbot)。并未在此站受到封禁。
+[骚扰](https://community.fandom.com/zh/wiki/Message_Wall:P進大好きbot)。并未在此站受到封禁。
 
 ### OIer维基
 作为站长，[破坏，滥权](https://oier.fandom.com/zh/wiki/OIer Wiki:第二次大规模基建)。截至被全域封禁前并未受到封禁也无人有能力封禁之。目前该维基正由正常社群维护并申请领养。
@@ -66,4 +66,4 @@ Gongxiang01的主账号为Gongxiang01。
 
 ## IP
 猜测在中文数室维基的这笔登出编辑为Gongxiang01:
-- [112.32.30.128](https://mathrooms.fandom.com/zh/wiki/Message Wall:Gongxiang01)
+- [112.32.30.128](https://mathrooms.fandom.com/zh/wiki/Message_Wall:Gongxiang01)
