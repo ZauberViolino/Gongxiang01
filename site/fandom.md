@@ -1,5 +1,5 @@
 # Fandom
-2024年3月14日，Gongxiang01被发现获Fandom全域封禁。
+2024年3月14日，Gongxiang01被发现获Fandom全域封禁。据称原因是「破坏、骚扰」。
 
 ## 各站点破坏记录
 
