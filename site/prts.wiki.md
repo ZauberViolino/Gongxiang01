@@ -10,9 +10,9 @@
 引发了明日方舟社群的讨论：https://ngabbs.com/read.php?tid=40327979
 
 ## 2024年6月
-2024年6月4日 19:16（UTC+8）起，Gongxiang01又使用帐号[Sheep-realms](https://prts.wiki/w/特殊:用户贡献/Sheep-realms)（冒充SheepRealms）破坏PRTS.wiki。用HTML注释测试过滤器，用大字在页面上重复写入SQL注入语句，辱骂自己是「傻逼」，[称别人为自己的小号](https://prts.wiki/index.php?oldid=294348&diff=310189)。随后被不限期封禁。
+2024年6月4日 19:16（UTC+8）起，Gongxiang01又使用帐号[Sheep-realms](https://prts.wiki/w/Special:Contributions/Sheep-realms)（冒充SheepRealms）破坏PRTS.wiki。用HTML注释测试过滤器，用大字在页面上重复写入SQL注入语句，辱骂自己是「傻逼」，[称别人为自己的小号](https://prts.wiki/w/Special:Diff/310189)。随后被不限期封禁。
 
-根据管理员[封禁操作](https://prts.wiki/index.php?title=Special:Log&logid=249347)，是次Gongxiang01使用的IP为1.189.159.199，同样为黑龙江联通地址。
+根据管理员[封禁操作](https://prts.wiki/w/Special:Log?logid=249347)，是次Gongxiang01使用的IP为1.189.159.199，同样为黑龙江联通地址。
 
 ## 使用账户
 帐户列表：
