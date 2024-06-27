@@ -5,6 +5,10 @@
 - http://ayaleton.wikidot.com/
 - http://jptpdxzt517.wikidot.com/ （警告：本站含有诽谤信息）
 - http://write-free.wikidot.com/
+- http://mathrooms-wiki-cn.wikidot.com/
+- http://zh-cn.wikidot.com/
+- https://freed.wikidot.com/
+- https://notebbs-support.wikidot.com/
 
 ## GitHub
 - ~~https://notewiki.github.io/~~ ([2024年6月9日的web archive存档](https://web.archive.org/web/20240609235531/https://notewiki.github.io/)) （警告：本站含有诽谤信息）
