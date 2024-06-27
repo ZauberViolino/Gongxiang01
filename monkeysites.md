@@ -24,6 +24,7 @@ Freeflarum也有flarum.cloud的域名。
 - https://note4.freeflarum.com/
 - https://noteji.freeflarum.com/
 - ~~https://cnsupport.freeflarum.com/~~
+- https://protectnote.freeflarum.com/
 
 ## Tiddlyhost
 - https://note-wiki.tiddlyhost.com/
