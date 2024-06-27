@@ -22,4 +22,6 @@
 
 ## The Backrooms TO-DV
 
-2024年6月27日，googology在The Backrooms TO-DV维基给自己从风室迁来的页面[打广告](https://backrooms-to-dv.wikidot.com/forum/t-16872126/upvote#post-6552383)。页面随后被删除，管理员提醒拉票违规。
+2024年6月27日，googology在The Backrooms TO-DV维基给自己从风室迁来的页面[打广告](https://backrooms-to-dv.wikidot.com/forum/t-16872126/upvote#post-6552383)。页面随后[被删除](https://backrooms-to-dv.wikidot.com/forum/t-15852521#post-6552442)，管理员提醒拉票违规。
+
+根据管理员删除操作提供的存档，共享01的这篇文章利用后室的设定挂羊头卖狗肉，宣传自己的站点，诋毁、诅咒其他用户。
