@@ -11,3 +11,17 @@
 - HcBBs_Auser
 - googology
 - 22c
+
+被关联封禁的IP段：
+- 36.132.229.0/24
+- 111.43.204.0/24
+
+## The Windrooms（风室）
+
+2024年6月27日，googology被风室因「迷惑言论和违规文章」封禁30天。[该站的封禁布告板](https://backroom-cn.wikidot.com/fj)
+
+共享01在其控制的站点[声称](https://note.freeflarum.com/d/161672-%E6%88%91%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A5%BC%E5%B1%82%E6%96%87/3)他撰写的文章遭到恶意点踩，并将该文章迁移到 The Backrooms TO-DV 维基。
+
+## The Backrooms TO-DV
+
+2024年6月27日，googology在The Backrooms TO-DV维基给自己从风室迁来的页面[打广告](https://backrooms-to-dv.wikidot.com/forum/t-16872126/upvote#post-6552383)。页面随后被删除，管理员提醒拉票违规。
