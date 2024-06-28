@@ -28,3 +28,6 @@
 
 ## 英文维基词典
 [用中文大数学维基作为参考资料](https://en.wiktionary.org/wiki/Special:Diff/66035147/76776646)。未被封禁。
+
+## 使用IP
+- 154.54.237.34 美国代理（(1)[https://en.wikipedia.org/w/index.php?diff=1231224377] (2)[https://imgse.com/i/pkyTGi6]）
