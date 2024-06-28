@@ -1,7 +1,7 @@
 # Wikimedia
 注：mediawiki.org的编辑单独在[mediawiki.md](mediawiki.md)列出。
 
-[Gongxiang01](https://meta.wikimedia.org/wiki/Special:CentralAuth/Gongxiang01)于2023年9月21日（UTC）在 mediawiki.org 注册账号。随后在多个 WMF wiki 留下编辑记录。2024年4月20日，他通过zh-ipbe获取了中文维基百科的账号和IPBE权限，直到5月27日被不限期封禁。此后再未在WMF维基（含MediaWiki）编辑过。
+[Gongxiang01](https://meta.wikimedia.org/wiki/Special:CentralAuth/Gongxiang01)于2023年9月21日（UTC）在 mediawiki.org 注册账号。随后在多个 WMF wiki 留下编辑记录。2024年4月20日，他通过zh-ipbe获取了中文维基百科的账号和IPBE权限，直到5月27日被不限期封禁。6月27日拿到英文维基百科IPBE后重新恢复活跃。
 
 ## 中文维基百科
 破坏、滥用警告、多次编辑战、[举报系统帐号伪造签名](https://zh.wikipedia.org/wiki/Special:Diff/82797524)（这不是他自己干过的事吗）、[滥建机翻页面](https://zh.wikipedia.org/wiki/Special:Log?logid=14282536)、[给没有编辑的IP发欢迎信息](https://zh.wikipedia.org/wiki/Special:Diff/82787455)
