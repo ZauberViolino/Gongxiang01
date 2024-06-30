@@ -6,6 +6,7 @@
 - http://write-free.wikidot.com/
 - http://mathrooms-wiki-cn.wikidot.com/
 - http://zh-cn.wikidot.com/
+- http://write-in-paper.wikidot.com/
 - https://freed.wikidot.com/
 - https://notebbs-support.wikidot.com/
 
