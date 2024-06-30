@@ -3,7 +3,6 @@
 ## Wikidot
 - http://googol.wikidot.com/
 - http://ayaleton.wikidot.com/
-- http://jptpdxzt517.wikidot.com/ （警告：本站含有诽谤信息）
 - http://write-free.wikidot.com/
 - http://mathrooms-wiki-cn.wikidot.com/
 - http://zh-cn.wikidot.com/
