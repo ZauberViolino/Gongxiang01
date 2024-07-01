@@ -14,6 +14,14 @@
 - 攻击CleanNote，攻击Anomynous_user等人
 - 指责游戏玩家「玩物丧志」[\[1\]](https://lglg.top/r/5376822) [\[2\]](../site/prts.wiki.md) [\[3\]](../site/wiki.gg.md)
 
+## 应对措施
+对于wiki站点，您可以以以下方式预防Gongxiang01的破坏：
+- 连锁保护首页，或者手动将嵌入首页的页面一一保护起来。
+- 保护高用量模板。
+- 设置滥用过滤器，阻止新用户加入HTML注释`<!--`、大型`div`、特定词句等。
+- 封禁Proxyium的IP段。
+- 封禁已知的Gongxinag01使用的哈尔滨IP或者IP段。
+
 ## 用户名倾向
 - 与Gongxiang相关
 - 与Googol、Googology相关
