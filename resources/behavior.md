@@ -11,7 +11,8 @@
 - 英文水平极差，[可能不到CEFR A2水平](https://zh.wikipedia.org/wiki/Special:Diff/82771956)，语法错误百出，甚至到了疑似反串的地步。
   - 然而很可能不是反串，他向外语人士发出请求时也使用无法理解的英文，并造成沟通阻碍。
 - 关注[大数](https://zh.wikipedia.org/wiki/大数 (数学))、[信息学奥林匹克竞赛（OI）](https://zh.wikipedia.org/wiki/全国青少年信息学奥林匹克竞赛)。
-- 攻击CleanNote，攻击Anomynous_user等人
+- 攻击CleanNote，攻击Anomynous_user等人。
+- 反串，破坏时自称是CleanNote、SheepRealms等，通常此时会辱骂Gongxiang01或声称Gongxiang01是破坏者。
 - 指责游戏玩家「玩物丧志」[\[1\]](https://lglg.top/r/5376822) [\[2\]](../site/prts.wiki.md) [\[3\]](../site/wiki.gg.md)
 
 ## 应对措施
