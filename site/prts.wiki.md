@@ -18,7 +18,7 @@
 ### 6月7日
 2024年6月7日 19:54（UTC+8）起，Gongxiang01 注册账号[Anonymous user](https://prts.wiki/w/Special:Contributions/Anonymous_user)（冒充Anonymous user）尝试进行破坏操作。由于其上述操作导致的滥用过滤器更新，该账号的编辑均被滥用过滤器禁止（[日志](https://prts.wiki/w/Special:AbuseLog?wpSearchUser=Anonymous+user&wpSearchPeriodStart=&wpSearchPeriodEnd=&wpSearchTitle=&wpSearchImpact=0&wpSearchAction=any&wpSearchActionTaken=&wpSearchGroup=0&wpSearchFilter=)），并未实现实质性破坏。
 
-## 6月30日
+### 6月30日
 
 2024年6月30日 09:48（UTC+8）起，Gongxiang01 注册账号[CleanNoteBomber](https://prts.wiki/w/Special:Contributions/CleanNoteBomber)破坏PRTS.wiki。在页面[集成战略](https://prts.wiki/index.php?type=revision&diff=312126&oldid=307382)中使用CSS“隐藏”了页面原始内容并“留言”、在[PRTS:申请其他用户权限](https://prts.wiki/id/21722)中评论、标记了此时未标记完结的话题并修改了页面公告，并创建了申请权限的话题（[Topic:Y7mq3k4i4lb10l72](https://prts.wiki/w/Topic:Y7mq3k4i4lb10l72)，已被删除，存档见[此处](../resources/prts.wiki.topic.archive.png)）。随后被不限期封禁。
 
