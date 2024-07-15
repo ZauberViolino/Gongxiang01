@@ -11,3 +11,5 @@ Gongxiang01的账号包括：googologygithub、~~[Googologyer](https://web.archi
 2024年6月13日 14:28（UTC）起，账号 「Googologyer」疑被GitHub限制无法查看到其账号。2024年6月16日，Gongxiang01[自称](https://github.com/notewiki/notewiki.github.io/commit/292d06d063a2605be32e92fa24fded60f5dd70e8)该帐号被GitHub封禁。
 
 2024年6月25日 16:08（UTC）起，账号 「notewiki」账号疑被Github限制现也已无法查看该账号。
+
+2024年7月13日 左右 Googol 在 Github 上试图搜索 DDOS 工具用于攻击 NotemsBBS
