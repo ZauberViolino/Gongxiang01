@@ -28,4 +28,4 @@ Freeflarum也有flarum.cloud的域名。
 - https://wikidot.freeflarum.com/
 
 ## Tiddlyhost
-- https://note-wiki.tiddlyhost.com/
+- https://note-wiki.tiddlyhost.com/（被请求移除：[simonbaird/tiddlyhost#333](https://github.com/simonbaird/tiddlyhost/issues/333)）
