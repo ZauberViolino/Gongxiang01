@@ -35,7 +35,7 @@
 [骚扰](https://community.fandom.com/zh/wiki/Message_Wall:P進大好きbot)。并未在此站受到封禁。
 
 ### OIer维基
-作为站长，[破坏，滥权](https://oier.fandom.com/zh/wiki/OIer_Wiki:第二次大规模基建)。截至被全域封禁前并未受到封禁也无人有能力封禁之。目前该维基正由正常社群维护并申请领养。
+作为站长，[破坏，滥权](https://oier.fandom.com/zh/wiki/OIer_Wiki:第二次大规模基建)。截至被全域封禁前并未受到封禁也无人有能力封禁之。目前该维基已被用户自治组织接管，并进行重建与清理的工作，Gongxiang01已被再次本地封禁并公开处刑。
 
 2024年5月9日和14日，用分身破坏OIer Wiki，分别被封禁[1个月](https://oier.fandom.com/zh/wiki/Special:Log?logid=337)和[2周](https://oier.fandom.com/zh/wiki/Special:Log?logid=350)，后均被全域封禁。
 
