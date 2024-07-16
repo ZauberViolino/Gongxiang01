@@ -1,6 +1,6 @@
 # GitHub
 
-Gongxiang01的账号包括：googologygithub、~~[Googologyer](https://web.archive.org/web/20240609235317/https://github.com/Googologyer)~~、~~[notewiki](https://web.archive.org/web/20240609235322/https://github.com/notewiki)~~、[GoogolOwO](https://github.com/GoogolOwO)
+Gongxiang01的账号包括：googologygithub、~~[Googologyer](https://web.archive.org/web/20240609235317/https://github.com/Googologyer)~~、~~[notewiki](https://web.archive.org/web/20240609235322/https://github.com/notewiki)~~、[GoogolOwO](https://github.com/GoogolOwO)、[cmd1152SB](https://github.com/cmd1152SB)
 
 疑似账号有：[hyman233](https://github.com/hyman233)
 
