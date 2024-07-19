@@ -9,6 +9,7 @@
 - http://write-in-paper.wikidot.com/
 - https://freed.wikidot.com/
 - https://notebbs-support.wikidot.com/
+- https://note-bbs.wikidot.com/
 
 ## GitHub
 - ~~https://notewiki.github.io/~~ ([2024年6月9日的web archive存档](https://web.archive.org/web/20240609235531/https://notewiki.github.io/)) （警告：本站含有诽谤信息）
@@ -20,7 +21,7 @@
 
 ## FreeFlarum
 Freeflarum也有flarum.cloud的域名。
-- https://note.freeflarum.com/
+- ~~https://note.freeflarum.com/~~ （站点原内容被移除并被社区接管：[FreeFlarum Support](https://support.freeflarum.com/d/216/6)，[备份](http://47.116.189.137:8080/notebbs.dynv6.net/)）
 - https://note4.freeflarum.com/
 - https://noteji.freeflarum.com/
 - ~~https://cnsupport.freeflarum.com/~~
