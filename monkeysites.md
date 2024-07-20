@@ -21,12 +21,13 @@
 
 ## FreeFlarum
 Freeflarum也有flarum.cloud的域名。
+经过核查，目前已被全部取缔。
 - ~~https://note.freeflarum.com/~~ （站点原内容被移除并被社区接管：[FreeFlarum Support](https://support.freeflarum.com/d/216/6)，[备份](http://47.116.189.137:8080/notebbs.dynv6.net/)）
-- https://note4.freeflarum.com/
-- https://noteji.freeflarum.com/
+- ~~https://note4.freeflarum.com/~~
+- ~~https://noteji.freeflarum.com/~~
 - ~~https://cnsupport.freeflarum.com/~~
-- https://protectnote.freeflarum.com/
-- https://wikidot.freeflarum.com/
+- ~~https://protectnote.freeflarum.com/~~
+- ~~https://wikidot.freeflarum.com/~~
 
 ## Tiddlyhost
 - https://note-wiki.tiddlyhost.com/ （被请求移除：[simonbaird/tiddlyhost#333](https://github.com/simonbaird/tiddlyhost/issues/333)）
