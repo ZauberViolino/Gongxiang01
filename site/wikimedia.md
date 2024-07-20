@@ -8,6 +8,8 @@
 
 2024年5月27日，被管理员不限期封禁。原因：[为了阐释观点而扰乱维基百科](https://zh.wikipedia.org/wiki/Wikipedia:POINT)、[并非在此建设百科全书](https://zh.wikipedia.org/wiki/Wikipedia:NOTHERE)。
 
+2024年7月19日，在讨论页中声称，在管理员Mys_721tx的第二次解任投票中投了支持，然后立即开始申诉封禁。然而，根据人事任免投票資格，其并没有投票资格，投票将在结束后由监票员剔除。
+
 ## 英文维基百科
 2024年6月27日获得英文维基百科IPBE，当日开始编辑英文维基百科。首先[称自己](https://en.wikipedia.org/wiki/User:Gongxiang01)被中文站封禁是不正义的，然后在英文站[请求](https://en.wikipedia.org/wiki/Wikipedia:Help_desk#Help_in_Chinese_Wikipedia's_block)给中文站的自己解封。
 

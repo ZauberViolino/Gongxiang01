@@ -8,6 +8,9 @@
 
 4月12日取消剥夺讨论页权限，但是讨论页被全保护6个月。
 
+傀儡 User:Googol01 于 2024年7月3日 (三) 15:55 创建 18：29 被封禁。User:Googol02 于 2024年7月3日 (三) 16:47 创建，17:08 被封禁。
+User:Shoup-Realming 于 2024年7月15日 (一) 11:43 创建，25 分钟后被封禁。
+
 ## 参见
 - 检查他在Miraheze各wiki上的贡献：https://meta.miraheze.org/wiki/Special:CentralAuth/Gongxiang01
 - [看他如何和志愿者反复拉扯](https://meta.miraheze.org/wiki/Special:RequestWikiQueue/42012)
