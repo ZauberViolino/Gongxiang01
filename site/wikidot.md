@@ -18,7 +18,7 @@
 
 2024年6月27日，googology被风室因「迷惑言论和违规文章」封禁30天。[该站的封禁布告板](https://backroom-cn.wikidot.com/fj)
 
-共享01在其控制的站点[声称](http://47.116.189.137:8080/notebbs.dynv6.net/d/161672-%E6%88%91%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E6%A5%BC%E5%B1%82%E6%96%87/3)他撰写的文章遭到恶意点踩，并将该文章迁移到 The Backrooms TO-DV 维基。
+共享01在其控制的站点[声称](http://47.116.189.137:8080/notebbs.dynv6.net/d/161672.html)他撰写的文章遭到恶意点踩，并将该文章迁移到 The Backrooms TO-DV 维基。
 
 ## The Backrooms TO-DV
 
