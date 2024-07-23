@@ -33,3 +33,6 @@ Freeflarum也有flarum.cloud的域名。
 ## Tiddlyhost
 - https://note-wiki.tiddlyhost.com/ （被请求移除：[simonbaird/tiddlyhost#333](https://github.com/simonbaird/tiddlyhost/issues/333)）
 - https://22c-bad.tiddlyhost.com/ （移除请求：[simonbaird/tiddlyhost#337](https://github.com/simonbaird/tiddlyhost/issues/337)）
+
+## MediaWiki
+- http://googol.usite.pub/
