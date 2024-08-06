@@ -4,6 +4,18 @@
 曾尝试通过Special:Contact页面向WeirdGloop申诉，但因WG职员难以理解其英语，其请求被职员截图转发给了中文MCW管理员。
 
 ### 帐号列表
+- Shrusabsa999
+- Biubiu333
+- Ergergregreger
+- 我是谁？？？
+- Webmaster of Wikepadie
+- Jimbo
+- 吉米威尔斯
+- 爱玩精神鸦片
+- Lyglq
+- Mother
+- Ceshi
+- OLER5555
 - Xiaoxin667
 - FF98sha
 - OLER5555
