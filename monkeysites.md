@@ -9,8 +9,9 @@
 - http://write-in-paper.wikidot.com/
 - https://freed.wikidot.com/
 - https://notebbs-support.wikidot.com/
-- https://note-bbs.wikidot.com/
+- ~~https://note-bbs.wikidot.com/~~（被盗号）
 - https://googologyrooms-wiki-cn.wikidot.com/
+- https://notebbs2.wikidot.com/
 
 ## GitHub
 - ~~https://notewiki.github.io/~~ ([2024年6月9日的web archive存档](https://web.archive.org/web/20240609235531/https://notewiki.github.io/)) （警告：本站含有诽谤信息）
