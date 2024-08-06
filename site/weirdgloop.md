@@ -1,7 +1,7 @@
 ## 中文Minecraft Wiki新站
 共享01在中文Minecraft Wiki新站的主账号为[User:OIer](https://zh.minecraft.wiki/w/User:OIer)。在MCW的行为包括：破坏，故意绕过滥用过滤器。2023年11月4日，因为在页面内加入迷你世界字样被过滤器自动封禁。随后因为绕过过滤器而在11月16日被不限期封禁。
 
-曾尝试通过Special:Contact页面向WeirdGloop申诉，但因WG职员难以理解其英语，其请求被职员截图转发给了中文MCW管理员。
+曾尝试通过Special:Contact页面向WeirdGloop申诉，但因WG职员难以理解其英语，其请求被职员截图转发给了中文MCW管理员（[文字版](../resources/weirdgloop-appeal.txt)）。
 
 ### 帐号列表
 - Shrusabsa999
