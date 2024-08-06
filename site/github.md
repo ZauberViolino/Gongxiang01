@@ -12,7 +12,7 @@ Gongxiang01的账号包括：~~googologygithub~~、~~[Googologyer](https://web.a
 
 2024年6月25日 16:08（UTC）起，账号 「notewiki」疑被Github限制现也已无法查看该账号。
 
-2024年7月1日 10:04（UTC+8），Gongxiang01透过账号「GoogolOwO」向本仓提起 #15 声称本仓信息为「虚假信息」；后此issue以「spam」（垃圾信息）锁定评论。2024年7月15日 10：09（UTC+8），Gongxiang01透过账号「GoogolOwO」再次向本仓提交 #21 声称本仓信息为「违法内容」；后此issue同样以「spam」（垃圾信息）锁定评论。
+2024年7月1日 10:04（UTC+8），Gongxiang01透过账号「GoogolOwO」向本仓提起 #15 声称本仓信息为「虚假信息」；后此issue以「spam」（垃圾信息）锁定评论。2024年7月15日 10:09（UTC+8），Gongxiang01透过账号「GoogolOwO」再次向本仓提交 #21 声称本仓信息为「违法内容」；后此issue同样以「spam」（垃圾信息）锁定评论。
 
 2024年7月13日 左右 Googol 在 Github 上试图搜索 DDOS 工具用于攻击 NotemsBBS
 
