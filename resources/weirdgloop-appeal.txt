@@ -1,5 +1,5 @@
 #
-# Text version of the Gongxiang01's "appeal", from the screenshot sent by Weird Gloop staff.
+# Text version of the Gongxiang01's "appeal", from the screenshot provided by Weird Gloop staff.
 # These texts are provided as-is, and contributed to the public domain (if applicable), by the Chinese Minecraft Wiki Administration.
 # Note that lines starting with a hash are comments, not a part of the original text.
 #
