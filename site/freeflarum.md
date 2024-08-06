@@ -8,6 +8,8 @@ Googol在FreeFlarum创建了[伪NoteBBS](https://note.freeflarum.com/)，并且�
 ## 支持论坛
 曾[扬言](https://support.freeflarum.com/d/107-my-forum-have-been-ddos)要DDoS [Note.msBBS](https://bbs.notems.xyz/)，被管理员警告。
 
+后因多项违规行为其在支持论坛的账户在2024年7月17日被管理封禁(同时其[伪NoteBBS也一并被取缔和接管](#伪notebbs))
+
 ## Note.ms BBS
 4月9日，Note.ms BBS站长对Googol采取以下处置措施：
 ```
