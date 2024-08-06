@@ -17,4 +17,4 @@ Gongxiang01的账号包括：~~googologygithub~~、~~[Googologyer](https://web.a
 2024年7月13日 左右 Googol 在 Github 上试图搜索 DDOS 工具用于攻击 NotemsBBS
 
 
-2024年7月16日，账号 「cmd1152SB」伪造用户 cmd1152 的 git 提交记录，并发布于 [cmd1152SB/cmd1152-wcnm](https://web.archive.org/web/20240716130049/https://github.com/cmd1152SB/cmd1152-wcnm)。14:44（UTC），GitHub 封禁对账号 「cmd1152SB」 及其内容进行了删除。
+2024年7月16日，账号 「cmd1152SB」伪造用户 cmd1152 的 git 提交记录，并发布于 [cmd1152SB/cmd1152-wcnm](https://web.archive.org/web/20240716130049/https://github.com/cmd1152SB/cmd1152-wcnm)。14:44（UTC），GitHub 对账号 「cmd1152SB」 及其内容进行了删除。
