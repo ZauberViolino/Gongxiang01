@@ -9,7 +9,7 @@
 - http://write-in-paper.wikidot.com/
 - https://freed.wikidot.com/
 - https://notebbs-support.wikidot.com/
-- ~~https://note-bbs.wikidot.com/~~（被盗号）
+- ~~https://note-bbs.wikidot.com/~~ （被盗号）
 - https://googologyrooms-wiki-cn.wikidot.com/
 - https://notebbs2.wikidot.com/
 
