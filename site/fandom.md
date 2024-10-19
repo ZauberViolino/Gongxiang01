@@ -43,7 +43,6 @@
 Gongxiang01的主账号为Gongxiang01。
 
 根据锑星百科的记载，其分身包括：
-- Gongxiang02
 - Googol
 - OneOfGoogol
 - TwoOfGoogol
@@ -61,8 +60,6 @@ Gongxiang01的主账号为Gongxiang01。
 - 轰炸姬
 - 别封我了求求你
 
-根据OIer Wiki的封禁日志，其分身还包括：
-- Suavexro
 
 ## IP
 猜测在中文数室维基的这笔登出编辑为Gongxiang01:
