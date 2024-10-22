@@ -59,7 +59,8 @@ Gongxiang01的主账号为Gongxiang01。
 - 封禁一点用都没有
 - 轰炸姬
 - 别封我了求求你
-
+- 论坛广告机
+- Ceranti
 
 ## IP
 猜测在中文数室维基的这笔登出编辑为Gongxiang01:
