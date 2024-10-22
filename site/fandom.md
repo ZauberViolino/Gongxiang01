@@ -43,7 +43,6 @@
 Gongxiang01的主账号为Gongxiang01。
 
 根据锑星百科的记载，其分身包括：
-- Gongxiang02
 - Googol
 - OneOfGoogol
 - TwoOfGoogol

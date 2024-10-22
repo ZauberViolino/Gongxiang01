@@ -16,5 +16,5 @@ Googol在FreeFlarum创建了[伪NoteBBS](https://note.freeflarum.com/)，并且�
 1. 移除Googol全部账号的登录凭据
 2. 阻止哈尔滨市的访问（除非有Authtrip）持续4年
 3. 阻止中国大陆以外地区的注册（除非有Authtrip）
-4. 把Googol现在发的主题全部移动到隔离区存档，影藏其所有回复
+4. 把Googol现在发的主题全部移动到隔离区存档，隐藏其所有回复
 ```
