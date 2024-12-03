@@ -19,7 +19,9 @@
 
 ## Fandom
 该用户在Fandom已被全域封禁，因此其权力已经丧失。
-- ?
+- https://add-universe.fandom.com/zh/wiki/%E8%99%9A%E6%9E%84%E5%AE%87%E5%AE%99_Wiki
+- https://googologyrooms.fandom.com/zh/wiki/Googologyrooms_Wiki
+- https://oier.fandom.com/zh/wiki/OIer_Wiki
 
 ## FreeFlarum
 Freeflarum也有flarum.cloud的域名。
@@ -30,6 +32,7 @@ Freeflarum也有flarum.cloud的域名。
 - ~~https://cnsupport.freeflarum.com/~~
 - ~~https://protectnote.freeflarum.com/~~
 - ~~https://wikidot.freeflarum.com/~~
+- 山寨超理吧，域名已不可考
 
 ## Tiddlyhost
 - https://note-wiki.tiddlyhost.com/ （被请求移除：[simonbaird/tiddlyhost#333](https://github.com/simonbaird/tiddlyhost/issues/333)）
