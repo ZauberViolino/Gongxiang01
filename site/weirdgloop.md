@@ -45,6 +45,7 @@
 - 1.189.116.0/23
 - 1.189.148.0/22
 - 2409:8a1a:700::/40
+- 218.8.66.0/24
 
 ### 参见
 [AF68](https://zh.minecraft.wiki/w/Special:AbuseFilter/68)
