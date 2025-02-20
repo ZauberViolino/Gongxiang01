@@ -1,4 +1,6 @@
 # Wikidot
+## 全域
+Gongxiang01因不满饭卷君对其恶行予以公示，篡改了Wikidot的翻译文本，导致所有中文Wikidot网站的功能按键全部显示辱骂饭卷君的文字。
 ## Write on Paper
 
 2023年10月6日，Gongxiang01被Write on Paper移除成员资格并封禁30天，随后升级为永久封禁。[详细信息](https://write-on-paper.wikidot.com/forum/t-16385036/gongxiang01)
@@ -25,3 +27,4 @@
 2024年6月27日，googology在The Backrooms TO-DV维基给自己从风室迁来的页面[打广告](https://backrooms-to-dv.wikidot.com/forum/t-16872126/upvote#post-6552383)。页面随后[被删除](https://backrooms-to-dv.wikidot.com/forum/t-15852521#post-6552442)，管理员提醒拉票违规。
 
 根据管理员删除操作提供的存档，共享01的这篇文章利用后室的设定挂羊头卖狗肉，宣传自己的站点，诋毁、诅咒其他用户。
+
