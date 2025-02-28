@@ -14,7 +14,7 @@
 2023年10月23日被不限期封禁，后被改为部分封禁。2024年3月6日再次被永久封禁，3月13日被剥夺讨论页权限。[封禁日志](https://darkrooms.fandom.com/zh/wiki/Special:Log/block?page=User:Gongxiang01)
 
 ### 锑星百科
-胡乱添加快速删除模板、插入垃圾内容和广告、伪造管理员签名。
+胡乱添加快速删除模板、插入垃圾内容和广告、伪造管理员签名，使用脚本批量创建垃圾页面。
 
 主账号先后因破坏被封禁或部分封禁4次。最后一次是2023年11月6日被封禁3个月 （不能编辑自己的讨论页），理由是「过多破坏行为：冒用他人信息，在编辑简介中广告宣传，继续添加无意义内容」。[封禁日志](https://antimony.fandom.com/zh/wiki/Special:Log/block?page=User:Gongxiang01)
 
@@ -39,6 +39,9 @@
 
 2024年5月9日和14日，用分身破坏OIer Wiki，被封禁[2周](https://oier.fandom.com/zh/wiki/Special:Log?logid=350)，后被全域封禁。
 
+### 中文数室维基
+[编辑战](https://mathrooms.fandom.com/zh/wiki/Level_Math_3.14?action=history)、用小号[声称别人破坏他的用户页](https://mathrooms.fandom.com/zh/wiki/Mathrooms_Wiki:Glorysans%E5%92%8CGhtr123%E5%81%9A%E5%87%BA%E7%9A%84%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%E8%AF%81%E6%8D%AE)，但又声称[他不是Gongxiang01](https://mathrooms.fandom.com/zh/wiki/User:Gongxian01?oldid=8364)，[声称Gongxiang01不是Googol](https://mathrooms.fandom.com/zh/wiki/User:Gongxiang01?diff=prev&oldid=8365)
+
 ## 使用帐号
 Gongxiang01的主账号为Gongxiang01。
 
@@ -61,10 +64,11 @@ Gongxiang01的主账号为Gongxiang01。
 - 别封我了求求你
 - 论坛广告机
 - Ceranti
+- Gongxian01
 
 ## IP
 猜测在中文数室维基的这笔登出编辑为Gongxiang01:
 - [112.32.30.128](https://mathrooms.fandom.com/zh/wiki/Message_Wall:Gongxiang01)
 
 ## 备注
-Gongxiang01在Fandom上“胡乱添加快速删除模板”的行为被部分文档记载为“滥用投票系统”，可能是因为中文后室维基将快速删除模板称为“红票”（锑星百科则为“红牌”） ，相对应的，标示此页面存在问题，需要修改的模板在中文后室维基被称为“黄票”（锑星百科则为“黄牌”） 
+Gongxiang01在Fandom上“胡乱添加快速删除模板”的行为被部分文档记载为“滥用投票系统”，可能是因为中文后室维基等相关维基将快速删除模板称为“红票”（锑星百科则为“红牌”） ，相对应的，标示此页面存在问题，需要修改的模板在中文后室维基等相关维基被称为“黄票”（锑星百科则为“黄牌”） 
