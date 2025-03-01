@@ -1,5 +1,5 @@
 # Gongxiang01
-A repository recording abuse by the vandal Gongxiang01, aka Googol, Googology, OIer, etc.
+记录破坏者Gongxiang01（又名Googol、Googology、OIer等）滥用行为的存储库。
 
 ## 简介
 共享01是活跃于中文维基站点及相关平台的破坏者，在多个站点和平台遭到永久封禁。尚不清楚其破坏动机何为。
