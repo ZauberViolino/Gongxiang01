@@ -1,6 +1,5 @@
 # Fandom
-2024年3月14日，Gongxiang01被发现获Fandom全域封禁。据称原因是「破坏、骚扰」。
-
+2024年3月14日，Gongxiang01表示，锑星百科侵犯其名誉权，并声称要联系Fandom投诉锑星百科，其后续是否采取行动及采取何种行动不详。当晚，其账号被Fandom全域封禁。 
 ## 各站点破坏记录
 
 ### 中文后室维基
@@ -17,6 +16,12 @@
 胡乱添加快速删除模板、插入垃圾内容和广告、伪造管理员签名。
 
 主账号先后因破坏被封禁或部分封禁4次。最后一次是2023年11月6日被封禁3个月 （不能编辑自己的讨论页），理由是「过多破坏行为：冒用他人信息，在编辑简介中广告宣传，继续添加无意义内容」。[封禁日志](https://antimony.fandom.com/zh/wiki/Special:Log/block?page=User:Gongxiang01)
+
+2024年2月22日，Gongxiang01重新在锑星百科上出现，并进行了一些模糊的道歉，称原因是“一时冲动”等；但其又引发了一些新的冲突，如关于“锑度百科”条目的争论。 2024年3月14日，Gongxiang01表示，锑星百科侵犯其名誉权，并声称要联系Fandom投诉锑星百科，其后续是否采取行动及采取何种行动不详。当晚，其账号被Fandom全域封禁。 
+
+Gongxiang01被全域封禁后，锑星百科多次出现高度疑似Gongxiang01的小号进行的大规模破坏活动，例如User:Dafaultuser6（冒充User:Defaultuser6）等。有一些自称CleanNote的IP用户进行破坏，根据其言论及英语语法错误（如“I is skilled”）推测，这些破坏行为可能是Gongxiang01所为。值得注意的是，[有迹象表明](https://oier.fandom.com/zh/wiki/Note.ms/CleanNote)，CleanNote实际是其他网站上与Gongxiang01敌对的组织，Gongxiang01自称CleanNote实际上是为诽谤该组织。最大规模的集中破坏发生于2024年6月6日-6月7日，Gongxiang01先后开User:PassWordPFD，User:密码密码，User:轰炸姬等6个小号对本站进行轰炸式破坏。尽管活跃用户及时发现，但破坏者的破坏手段高度疑似脚本自动批量创建巨量垃圾页面，每次等到管理员赶来现场封禁时，已经有几十个垃圾条目被创建。风波结束后清点垃圾页面可知其数量接近300个，绝大多数为Sxlzr444手动删除。 
+
+2025年2月24日，Gongxiang01开小号“Gongxian01”试图编辑锑星百科页面，因账号注册时间未达到1天而被[滥用过滤器阻止](https://antimony.fandom.com/zh/wiki/Special:%E6%BB%A5%E7%94%A8%E6%97%A5%E5%BF%97?wpSearchUser=Gongxian01)。被用户发现，[后被封禁](https://antimony.fandom.com/zh/wiki/Special:%E6%97%A5%E5%BF%97/block?page=User%3AGongxian01)。 
 
 ### 中文大数字维基
 虚假信息、忽略讨论页警告、骚扰。
