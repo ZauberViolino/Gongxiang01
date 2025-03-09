@@ -1,5 +1,5 @@
-# Fandom
-2024年3月14日，Gongxiang01被发现获Fandom全域封禁。据称原因是「破坏、骚扰」。
+# Fandom全域
+2024年3月14日，Gongxiang01表示，锑星百科侵犯其名誉权，[并声称要联系Fandom投诉锑星百科](https://antimony.fandom.com/zh/wiki/%E7%95%99%E8%A8%80%E5%A2%99:Gongxiang01?threadId=4400000000000040941#4400000000000219374)，其后续是否采取行动及采取何种行动不详。当晚，其账号被Fandom全域封禁。 
 
 ## 各站点破坏记录
 
