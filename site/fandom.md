@@ -40,7 +40,7 @@
 2024年5月9日和14日，用分身破坏OIer Wiki，被封禁[2周](https://oier.fandom.com/zh/wiki/Special:Log?logid=350)，后被全域封禁。
 
 ### 中文数室维基
-[编辑战](https://mathrooms.fandom.com/zh/wiki/Level_Math_3.14?action=history)、用小号[声称别人破坏他的用户页](https://mathrooms.fandom.com/zh/wiki/Mathrooms_Wiki:Glorysans%E5%92%8CGhtr123%E5%81%9A%E5%87%BA%E7%9A%84%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%E8%AF%81%E6%8D%AE)，但又声称[他不是Gongxiang01](https://mathrooms.fandom.com/zh/wiki/User:Gongxian01?oldid=8364)，[声称Gongxiang01不是Googol](https://mathrooms.fandom.com/zh/wiki/User:Gongxiang01?diff=prev&oldid=8365)
+[编辑战](https://mathrooms.fandom.com/zh/wiki/Level_Math_3.14?action=history)、用小号[声称别人破坏他的用户页](https://mathrooms.fandom.com/zh/wiki/Mathrooms_Wiki:Glorysans%E5%92%8CGhtr123%E5%81%9A%E5%87%BA%E7%9A%84%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%E8%AF%81%E6%8D%AE)，但又声称[他不是Gongxiang01](https://mathrooms.fandom.com/zh/wiki/User:Gongxian01?oldid=8364)、[声称Gongxiang01不是Googol](https://mathrooms.fandom.com/zh/wiki/User:Gongxiang01?diff=prev&oldid=8365)
 
 ## 使用帐号
 Gongxiang01的主账号为Gongxiang01。
