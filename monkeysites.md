@@ -32,7 +32,7 @@ Freeflarum也有flarum.cloud的域名。
 - ~~https://cnsupport.freeflarum.com/~~
 - ~~https://protectnote.freeflarum.com/~~
 - ~~https://wikidot.freeflarum.com/~~
-- ~~https://antimony.flarum.cloud/~~（[参考](https://antimony.fandom.com/zh/wiki/%E9%94%91%E6%98%9F%E7%99%BE%E7%A7%91:%E5%92%A8%E8%AF%A2%E5%8C%BA?diff=49907&oldid=49056)）
+- ~~https://antimony.flarum.cloud/~~ （[参考](https://antimony.fandom.com/zh/wiki/%E9%94%91%E6%98%9F%E7%99%BE%E7%A7%91:%E5%92%A8%E8%AF%A2%E5%8C%BA?diff=49907&oldid=49056)）
 
 ## Tiddlyhost
 - https://note-wiki.tiddlyhost.com/ （被请求移除：[simonbaird/tiddlyhost#333](https://github.com/simonbaird/tiddlyhost/issues/333)）
