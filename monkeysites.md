@@ -21,7 +21,7 @@
 该用户在Fandom已被全域封禁，因此其权力已经丧失。
 - https://add-universe.fandom.com/zh/wiki/%E8%99%9A%E6%9E%84%E5%AE%87%E5%AE%99_Wiki
 - https://googologyrooms.fandom.com/zh/wiki/Googologyrooms_Wiki
-- https://oier.fandom.com/zh/wiki/OIer_Wiki
+- https://oier.fandom.com/zh/wiki/OIer_Wiki （被Gongxiang01转移到http://oierwiki.free.nf/ ，已关闭）
 
 ## FreeFlarum
 Freeflarum也有flarum.cloud的域名。
