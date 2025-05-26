@@ -9,8 +9,9 @@
 - http://write-in-paper.wikidot.com/
 - https://freed.wikidot.com/
 - https://notebbs-support.wikidot.com/
-- https://note-bbs.wikidot.com/
+- ~~https://note-bbs.wikidot.com/~~ （被盗号）
 - https://googologyrooms-wiki-cn.wikidot.com/
+- https://notebbs2.wikidot.com/
 
 ## GitHub
 - ~~https://notewiki.github.io/~~ ([2024年6月9日的web archive存档](https://web.archive.org/web/20240609235531/https://notewiki.github.io/)) （警告：本站含有诽谤信息）
@@ -18,7 +19,9 @@
 
 ## Fandom
 该用户在Fandom已被全域封禁，因此其权力已经丧失。
-- ?
+- https://add-universe.fandom.com/zh/wiki/%E8%99%9A%E6%9E%84%E5%AE%87%E5%AE%99_Wiki
+- https://googologyrooms.fandom.com/zh/wiki/Googologyrooms_Wiki
+- https://oier.fandom.com/zh/wiki/OIer_Wiki （被Gongxiang01转移到http://oierwiki.free.nf/ ，已关闭）
 
 ## FreeFlarum
 Freeflarum也有flarum.cloud的域名。
@@ -29,6 +32,7 @@ Freeflarum也有flarum.cloud的域名。
 - ~~https://cnsupport.freeflarum.com/~~
 - ~~https://protectnote.freeflarum.com/~~
 - ~~https://wikidot.freeflarum.com/~~
+- ~~https://antimony.flarum.cloud/~~ （[参考](https://antimony.fandom.com/zh/wiki/%E9%94%91%E6%98%9F%E7%99%BE%E7%A7%91:%E5%92%A8%E8%AF%A2%E5%8C%BA?diff=49907&oldid=49056)）
 
 ## Tiddlyhost
 - https://note-wiki.tiddlyhost.com/ （被请求移除：[simonbaird/tiddlyhost#333](https://github.com/simonbaird/tiddlyhost/issues/333)）
