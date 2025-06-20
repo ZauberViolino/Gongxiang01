@@ -23,7 +23,7 @@
 - 设置滥用过滤器，阻止新用户加入HTML注释`<!--`、大型`div`、特定词句等。
 - 封禁Proxyium的IP段。
 - 封禁已知的Gongxinag01使用的哈尔滨IP或者IP段。
-
+- 若发现有人批量创建垃圾页面，可用[这个脚本](https://greasyfork.org/zh-CN/scripts/528156-fandom%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4%E4%B8%8E%E4%BF%9D%E6%8A%A4%E5%B7%A5%E5%85%B7)应对（[GitHub](https://github.com/PandaFiredoge/FandomBatchDeleteTool)）
 ## 用户名倾向
 - 与Gongxiang相关
 - 与Googol、Googology相关
