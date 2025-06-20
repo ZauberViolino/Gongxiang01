@@ -14,6 +14,7 @@
 - 攻击CleanNote，攻击Anomynous_user等人。
 - 反串，破坏时自称是CleanNote、SheepRealms等，通常此时会辱骂Gongxiang01或声称Gongxiang01是破坏者。
 - 指责游戏玩家「玩物丧志」[\[1\]](https://lglg.top/r/5376822) [\[2\]](../site/prts.wiki.md) [\[3\]](../site/wiki.gg.md)
+- 使用自动化脚本批量创建页面
 
 ## 应对措施
 对于wiki站点，您可以以以下方式预防Gongxiang01的破坏：
