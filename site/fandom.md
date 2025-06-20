@@ -13,7 +13,7 @@
 2023年10月23日被不限期封禁，后被改为部分封禁。2024年3月6日再次被永久封禁，3月13日被剥夺讨论页权限。[封禁日志](https://darkrooms.fandom.com/zh/wiki/Special:Log/block?page=User:Gongxiang01)
 
 ### 锑星百科
-对不存在相应问题的页面添加要求整改/删除的通知、插入垃圾内容和广告、伪造管理员签名、使用程序批量创建垃圾页面。
+胡乱添加“内容问题”、“待删除”等模板、插入垃圾内容和宣传、创建无意义页面、声称其他平台上的账号不是本人、伪造行政员签名、使用脚本批量创建垃圾页面、声称遭遇了他人“辱骂”。
 
 主账号先后因破坏被封禁或部分封禁4次。最后一次是2023年11月6日被封禁3个月 （不能编辑自己的讨论页），理由是「过多破坏行为：冒用他人信息，在编辑简介中广告宣传，继续添加无意义内容」。[封禁日志](https://antimony.fandom.com/zh/wiki/Special:Log/block?page=User:Gongxiang01)
 
@@ -51,7 +51,7 @@ Gongxiang01被全域封禁后，锑星百科多次出现高度疑似Gongxiang01�
 Gongxiang01的主账号为Gongxiang01。
 
 根据锑星百科的记载，其傀儡账号（小号）包括：
-- Gongxiang02
+- Gongxiang02（并非在Fandom）
 - Googol
 - OneOfGoogol
 - TwoOfGoogol
@@ -70,9 +70,7 @@ Gongxiang01的主账号为Gongxiang01。
 - 别封我了求求你
 - 论坛广告机
 - Ceranti
-
-根据OIer Wiki的封禁日志，其傀儡账号（小号）还包括：
-- Suavexro
+- Gongxian01
 
 
 ## IP
